@@ -1,0 +1,29 @@
+body {
+    background-color: #FFD5E2; /* Color celeste */
+}
+
+.login {
+    margin: auto; 
+    padding: 20px; 
+    background-color: #F6E9F0;
+}
+
+.btn {
+    width: 100%;
+    margin-top: 10px;
+}
+.card{
+    background-color:#FFD5E2 ;
+    border: none;
+}
+#loginGoogleBtn{
+    background-color: #FF8AA5;
+    color: white;
+}
+.botoni{
+    background-color: #9377E3;
+    border: none;
+}
+#showRegisterForm{
+    color: #F63C65;
+}
